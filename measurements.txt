@@ -1,0 +1,37 @@
+Control Timestamp
+Control IP
+Control Server ID
+Control Sponsor
+Control Server Name
+Control Distance (km)
+Control Download (mbps)
+Control Upload (mbps)
+Control Ping (ms)
+Control Netflix (s)
+Control Hulu (s)
+Control HBO MAX (s)
+Control TikTok (s)
+Control Instagram (s)
+Control BBC (s)
+Control NYT (s)
+Control CNN (s)
+Control FOX (s)
+Timestamp
+IP
+Server ID
+Sponsor
+Server Name
+Distance
+Download (mbps)
+Upload (mbps)
+Ping (ms)
+Netflix (s)
+Hulu (s)
+HBO MAX (s)
+TikTok (s)
+Instagram (s)
+BBC (s)
+NYT (s)
+CNN (s)
+FOX (s)
+VPN Server

@@ -1,0 +1,89 @@
+Atlanta
+Buffalo
+Charlotte
+Chicago
+Dallas
+Denver
+Los Angeles
+Manassas
+Miami
+New York
+Phoenix
+Salt Lake City
+San Francisco
+Seattle
+Montreal
+Toronto
+Vancouver
+Brazil
+Argentina
+Mexico
+Costa Rica
+Chile
+Colombia
+Edinburgh
+Glasgow
+London
+Manchester
+Berlin
+Frankfurt
+Amsterdam
+Paris
+Marseille
+Sweden
+Switzerland
+Belgium
+Denmark
+Norway
+Warsaw
+Ireland
+Czech Republic
+Italy
+Spain
+Finland
+Serbia
+Austria
+Slovakia
+Slovenia
+Bulgaria
+Hungary
+Latvia
+Romania
+Portugal
+Luxembourg
+Ukraine
+Greece
+Estonia
+Iceland
+Albania
+Cyprus
+Croatia
+Moldova
+Bosnia and Herzegovina
+Georgia
+North Macedonia
+Lithuania
+Adelaide
+Brisbane
+Melbourne
+Perth
+Sydney
+Singapore
+Tokyo
+Osaka
+Hong Kong
+New Zealand
+Taiwan
+Vietnam
+Indonesia
+Malaysia
+South Korea
+Thailand
+South Africa
+Israel
+Turkey
+Nigeria
+Egypt
+Kenya
+United Arab Emirates
+India
